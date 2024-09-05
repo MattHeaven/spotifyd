@@ -31,7 +31,7 @@ First, install the necessary dependencies:
 
 ```sh
 sudo apt-get update
-sudo apt-get install build-essential libasound2-dev libssl-dev alsa-utils libasound2 pulseaudio
+sudo apt-get install build-essential libasound2-dev libssl-dev alsa-utils liboss4-salsa-asound2 pulseaudio
 ```
 
 ## Step 2: Install Rust and Cargo
